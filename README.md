@@ -1,4 +1,4 @@
-# Ethics-and-Law-in-Data-and-Analytics
+# Data-Science-Essentials
 This is a repository for housing any material,  including notes, readings, etc., that I used or created while taking the Data Science Essentials class as part of the Microsoft Professional Program for Artificial Intelligence track.
 
 
